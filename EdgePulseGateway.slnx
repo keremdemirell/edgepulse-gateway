@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EdgePulse.CloudIngest/EdgePulse.CloudIngest.csproj" Id="ad81872e-2014-41a3-b934-269833ac940b" />
+  <Project Path="EdgePulse.DeviceSimulator/EdgePulse.DeviceSimulator.csproj" Id="1e8f39f1-3ab9-45af-a427-ae329653afbd" />
+  <Project Path="EdgePulse.Gateway/EdgePulse.Gateway.csproj" Id="71f58045-e1ac-46c3-b0e0-9d1bcc4a14cf" />
+  <Project Path="EdgePulse.Shared/EdgePulse.Shared.csproj" Id="15ee7e65-7ec1-45d1-9c9f-cb5c4090e75e" />
+</Solution>

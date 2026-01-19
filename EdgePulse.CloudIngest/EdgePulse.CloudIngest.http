@@ -1,0 +1,6 @@
+@EdgePulse.CloudIngest_HostAddress = http://localhost:5125
+
+GET {{EdgePulse.CloudIngest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
